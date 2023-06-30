@@ -16,6 +16,6 @@ I am a student at Amal Jyothi College College in Koovappally, Kerala, in India, 
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohith-48&icon=8&color=9)](https://visitcount.itsvg.in)
+([![](https://visitcount.itsvg.in/api?id=Rohith-48&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in))
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
