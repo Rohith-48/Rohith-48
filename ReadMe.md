@@ -26,4 +26,4 @@ I am a student at Amal Jyothi College College in Koovappally, Kerala, in India, 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-48&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rohith-48&label=Profile%20Views&color=9&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rohith-48&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
