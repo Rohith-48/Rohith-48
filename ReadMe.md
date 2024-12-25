@@ -24,6 +24,6 @@ I am passionate about web development and exploring various technologies.<br><br
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohith-48&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-48&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=706216" style='border:none;'></iframe>
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohith-48&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
