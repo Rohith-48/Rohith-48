@@ -21,7 +21,7 @@ I am passionate about web development and exploring various technologies.<br><br
 
 ---
 ## <img src="https://tryhackme.com/img/favicon.png" alt="TryHackMe Logo" width="20"/> TryHackMe Stats:
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/raZor.png)](https://tryhackme.com/p/raZor)
+[![TryHackMe Profile](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=706216)](https://tryhackme.com/p/raZor)
 
 ----
 
