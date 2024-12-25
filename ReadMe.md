@@ -7,6 +7,9 @@
 
 ---
 
+[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/raZor.png)](https://tryhackme.com/p/raZor)
+
+----
 # 💫 About Me:
 I am passionate about web development and exploring various technologies.<br><br>- 🔭 Currently, I am honing my skills in cybersecurity and web development.<br>- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I have a keen interest in ethical hacking and cyber security, constantly learning and staying updated with the latest security trends. <br>- 💻 Recently, I developed a wallpaper site that connects PHP with a MongoDB database, providing users with a vast collection of stunning wallpapers.<br>- 🎥 In my free time, I enjoy editing videos using After Effects and Alight Motion, creating captivating visual experiences.<br>- 📱 I also have experience in mobile app development and have designed a Netflix clone using the Flutter framework.<br>- 💡 In my spare time, I like to work on hardware projects. One of my accomplishments includes building a bulb controller using the HC-05 module.<br>- 📫 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/rohith-santhosh/).
 
@@ -23,8 +26,6 @@ I am passionate about web development and exploring various technologies.<br><br
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rohith-48&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohith-48&theme=blue-green&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-[![TryHackMe Profile](https://tryhackme-badges.s3.amazonaws.com/raZor.png)](https://tryhackme.com/p/raZor)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rohith-48&label=Profile%20Views&color=9&icon=6&pretty=true)](https://visitcount.itsvg.in)
